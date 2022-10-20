@@ -11,7 +11,7 @@ CMD ["node", "src/index.js"]
 EXPOSE 3000
 ```
 
-![스크린샷 2022-10-18 20.38.46.png](/getting-started/app/src/img/1.png)
+![sample.png](./app/src/img/1.png)
 
 ```docker
 docker build -t getting-started .
@@ -24,7 +24,7 @@ docker build -t getting-started .
 docker run -dp 3000:3000 getting-started
 ```
 
-![스크린샷 2022-10-18 20.39.57.png](/getting-started/app/src/img/2.png)
+![sample.png](./app/src/img/2.png)
 
 ```jsx
 ➜  getting-started git:(main) ✗ docker scan
@@ -49,45 +49,45 @@ Options:
 "docker scan" requires exactly 1 argument
 ```
 
-![스크린샷 2022-10-18 20.30.56.png](/getting-started/app/src/img/3.png)
+![sample.png](./app/src/img/3.png)
 
-![스크린샷 2022-10-19 20.16.39.png](/getting-started/app/src/img/4.png)
+![sample.png](./app/src/img/4.png)
 
-![스크린샷 2022-10-19 20.16.44.png](/getting-started/app/src/img/5.png)
+![sample.png](./app/src/img/5.png)
 
-![스크린샷 2022-10-19 20.18.36.png](/getting-started/app/src/img/6.png)
+![sample.png](./app/src/img/6.png)
 
-![스크린샷 2022-10-19 20.18.47.png](/getting-started/app/src/img/7.png)
+![sample.png](./app/src/img/7.png)
 
 ## Part 5:\***\*Persist the DB\*\***
 
-![스크린샷 2022-10-19 20.24.04.png](/getting-started/app/src/img/8.png)
+![sample.png](./app/src/img/8.png)
 
-![스크린샷 2022-10-19 20.27.17.png](/getting-started/app/src/img/9.png)
+![sample.png](./app/src/img/9.png)
 
-![스크린샷 2022-10-19 20.29.08.png](/getting-started/app/src/img/10.png)
+![sample.png](./app/src/img/10.png)
 
-![스크린샷 2022-10-19 20.30.11.png](/getting-started/app/src/img/11.png)
+![sample.png](./app/src/img/11.png)
 
-![스크린샷 2022-10-19 20.31.22.png](/getting-started/app/src/img/12.png)
+![sample.png](./app/src/img/12.png)
 
 ## Part 7:\***\*Multi container apps\*\***
 
-![스크린샷 2022-10-19 20.37.54.png](/getting-started/app/src/img/13.png)
+![sample.png](./app/src/img/13.png)
 
 ## Part 8:\***\*Use Docker Compose\*\***
 
-![스크린샷 2022-10-19 20.42.59.png](/getting-started/app/src/img/14.png)
+![sample.png](./app/src/img/14.png)
 
-![스크린샷 2022-10-19 20.45.31.png](/getting-started/app/src/img/15.png)
+![sample.png](./app/src/img/15.png)
 
-![스크린샷 2022-10-19 20.47.41.png](/getting-started/app/src/img/16.png)
+![sample.png](./app/src/img/16.png)
 
-![스크린샷 2022-10-19 20.51.56.png](/getting-started/app/src/img/17.png)
+![sample.png](./app/src/img/17.png)
 
 ## Part 9:\***\*Image-building best practices\*\***
 
-![스크린샷 2022-10-19 20.52.32.png](/getting-started/app/src/img/18.png)
+![sample.png](./app/src/img/18.png)
 
 # Docker Getting Started Tutorial
 
